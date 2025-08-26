@@ -1,5 +1,5 @@
 ---
-title: "Case_Study_Clean"
+title: "Cyclistic_Bike-Share_Analysis_Case_Study"
 author: "Ivy"
 date: "2025-08-22"
 output:
