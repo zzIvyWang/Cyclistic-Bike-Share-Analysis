@@ -22,7 +22,9 @@ Divvy 自行車共享數據分析
 
 5. 如何查看報告 (How to View the Report)
 [點此查看完整分析報告](https://github.com/zzIvyWang/Case-Study/blob/main/Cyclistic%20Bike-Share%20Analysis%20Case%20Study.md)
-![平均騎行時間長條圖](平均騎行時長比較：會員v.s臨時用戶.png)
-![騎行次數比較長條圖](騎行次數比較：會員v.s臨時用戶.png)
+
+<img src="平均騎行時長比較：會員v.s臨時用戶.png" alt="平均騎行時間長條圖" width="500" />
+<img src="騎行次數比較：會員v.s臨時用戶.png" alt="騎行次數比較長條圖" width="500" />
+
 
 
