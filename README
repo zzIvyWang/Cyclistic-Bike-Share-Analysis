@@ -17,7 +17,7 @@
 建議行銷策略：在 App 中推出會員三個月試用優惠，介紹公司站點的周邊環境，增加臨時用戶對 Cyclistic 通勤友善站點的認識，並且成為會員的話，贈送騎乘的折扣時數。
 
 5. 如何查看報告 (How to View the Report)
-點此查看完整分析報告 (./Case-Study/Case_Study_01_clean.md)
+[點此查看完整分析報告](./Case-Study/Case_Study_01_clean.md)
 
 ＝＝＝
 你可以將連結指向你的 R Markdown 檔案所編譯出的 .md 檔案，因為 GitHub 能夠直接渲染它。
