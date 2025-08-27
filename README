@@ -19,7 +19,4 @@
 5. 如何查看報告 (How to View the Report)
 [點此查看完整分析報告](https://github.com/zzIvyWang/Case-Study/blob/main/Cyclistic%20Bike-Share%20Analysis%20Case%20Study.md)
 
-＝＝＝
-你可以將連結指向你的 R Markdown 檔案所編譯出的 .md 檔案，因為 GitHub 能夠直接渲染它。
 
-最後，將你的 R Markdown 檔案 (.Rmd) 和編譯後的 Markdown 檔案 (.md)，以及 README.md 文件一起上傳到你的 GitHub 專案中。這能讓任何有興趣的人都能看到你的完整工作流程，從程式碼到最終的報告。
