@@ -9,11 +9,13 @@
 
 3. 數據與工具 (Data & Tools)
 
-    數據來源：Google Data Analytics Professional Certificate Program: Divvy 自行車共享數據 (2019 Q1 & 2020 Q1) 
-程式語言：R
-主要套件：tidyverse (含 dplyr, ggplot2), lubridate
+    • 數據來源：Google Data Analytics Professional Certificate Program: Divvy 自行車共享數據 (2019 Q1 & 2020 Q1) 
 
-4. 主要發現與結論 (Key Findings & Conclusions)
+    • 程式語言：R
+
+    • 主要套件：tidyverse (含 dplyr, ggplot2), lubridate
+
+5. 主要發現與結論 (Key Findings & Conclusions)
 
     • 臨時用戶：平均騎乘時間較長、騎乘次數較少且集中在週末，這可能表示他們更傾向於休閒騎行。
     
@@ -21,7 +23,7 @@
 
     • 行銷策略建議：在 App 中推出會員三個月試用優惠，介紹公司站點的周邊環境，增加臨時用戶對 Cyclistic 通勤友善站點的認識，並且成為會員的話，贈送騎乘的折扣時數。
 
-5. 如何查看報告 (How to View the Report)
+6. 如何查看報告 (How to View the Report)
   [點此查看完整分析報告](https://github.com/zzIvyWang/Case-Study/blob/main/Cyclistic%20Bike-Share%20Analysis%20Case%20Study.md)
 
     <img src="平均騎行時長比較：會員v.s臨時用戶.png" alt="平均騎行時間長條圖" width="500" />
